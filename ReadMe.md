@@ -60,7 +60,7 @@ If you have time, write and run different tests based on common issues you have 
 
 *Depending on the quality of your code from previous lessons, your tests might not pass. That is quite alright! The purpose of this project is to design tests that point out errors. As such, you just need to be sure that the tests are failing because of issues with your web page code, not issues with your test code.*
 
-****
+*****
 
 ## Resources
 
